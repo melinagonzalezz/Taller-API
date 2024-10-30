@@ -1,0 +1,33 @@
+Una API (Interfaz de Programación de Aplicaciones) es un conjunto de definiciones y protocolos que permiten la interacción entre aplicaciones sin que los desarrolladores necesiten conocer sus detalles internos.
+
+Funcionamiento de una API
+
+Las APIs actúan como contratos entre partes, con estructuras específicas para el intercambio de datos, permitiendo conectar infraestructura existente, compartir datos y agilizar el desarrollo de aplicaciones. Por ejemplo, una API de una distribuidora de libros permite a librerías consultar inventarios automáticamente.
+
+Tipos de APIs
+
+Privadas: De uso interno.
+
+De partners: Compartidas con socios.
+
+Públicas: Abiertas a terceros, fomentando la innovación.
+
+Modelos de API
+
+SOAP: Protocolo estándar con XML, útil en entornos diversos.
+
+REST: Arquitectura sencilla basada en HTTP, permite interacciones cliente-servidor. 
+
+OpenAPI estandariza su definición, mientras que GraphQL permite consultas en una sola solicitud.
+
+Arquitecturas: SOA y Microservicios
+
+SOA: Divide sistemas en servicios interconectados.
+
+Microservicios: Modular y sin dependencias directas, usa APIs RESTful.
+
+Webhooks vs APIs
+
+Los webhooks son similares a las APIs pero funcionan de forma inversa, enviando datos desde el servidor al cliente al ocurrir eventos, evitando consultas continuas.
+
+Las APIs facilitan el acceso seguro a recursos y fomentan la colaboración y crecimiento comercial, creando ecosistemas digitales.
